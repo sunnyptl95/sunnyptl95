@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Sunny
+# 👋 Hi, I'm Sunny 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&random=true&width=435&lines=SUNNY+PATEL;HTML+%7C+CSS+%7C+PYTHON+%7C+PHP+)](https://git.io/typing-svg)
 
@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=sunnyptl95&theme=onedark)
-
----
+## ⚡ Coding Vibes
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
