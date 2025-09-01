@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 📬 Connect with me on [Telegram](https://t.me/JUST_7D5)
 
 ---
+> [WibeMix](https://wibemix.netlify.app)
+--
+> [Wali Wallpaper](https://website-flask-1.onrender.com)
+---
 
 ## 🔗 Badges
 ![Profile Views](https://komarev.com/ghpvc/?username=sunnyptl95&label=Profile%20Views&color=blue&style=flat)  
