@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 > [WibeMix](https://wibemix.netlify.app)
 --
 > [Waifu-Flow](https://waifu-flow.netlify.app/)
+--
+> [Template-Stock](https://templatestock.netlify.app)
 ---
 
 ## 🔗 Badges
