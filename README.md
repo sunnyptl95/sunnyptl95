@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 Skills
-- 🌐 HTML  
+- 🌐 HTML
 - 🎨 CSS  
-- 🐍 Python  
-- 🖥️ PHP  
+- 🐍 Python ~ Beginner
+- 🖥️ PHP
 
 ---
 
