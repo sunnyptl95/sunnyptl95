@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 > [WibeMix](https://wibemix.netlify.app)
 --
-> [Wali Wallpaper](https://website-flask-1.onrender.com)
+> [Waifu-Flow](https://waifu-flow.netlify.app/)
 ---
 
 ## 🔗 Badges
