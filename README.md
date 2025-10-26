@@ -21,13 +21,6 @@ Here are some ideas to get you started:
 ⚡ Skilled in **HTML, CSS, Python, PHP**  
 📬 Connect with me on [Telegram](https://t.me/JUST_7D5)
 
----
-> [WibeMix](https://wibemix.netlify.app)
---
-> [Waifu-Flow](https://waifu-flow.netlify.app/)
---
-> [Template-Stock](https://templatestock.netlify.app)
----
 
 ## 🔗 Badges
 ![Profile Views](https://komarev.com/ghpvc/?username=sunnyptl95&label=Profile%20Views&color=blue&style=flat)  
