@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 💻 Passionate developer who loves building creative and useful projects.  
 ⚡ Skilled in **HTML, CSS, Python, PHP**  
-📬 Connect with me on [Telegram](https://t.me/JUST_7D5)
+📬 Connect with me on [Telegram](https://t.me/Emoziii_x)
 
 
 ## 🔗 Badges
