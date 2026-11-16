@@ -1,33 +1,41 @@
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=sunnyptl95&theme=aurora&label=Sunny+Patel+%E2%9A%95%EF%B8%8F&mode=light" /><img src="https://www.gitskins.com/api/section/wordmark?username=sunnyptl95&theme=aurora&label=Sunny+Patel+%E2%9A%95%EF%B8%8F" width="100%" alt="Sunny Patel ⚕️" /></picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=180&section=header&text=Sunny%20Patel&fontSize=42&fontAlignY=38&desc=AI-Assisted%20Developer%20%7C%20Building%20in%20Public&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 </p>
-
-## Profile scan
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=sunnyptl95&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/system-scan?username=sunnyptl95&theme=aurora" width="100%" alt="ASCII profile scan" /></picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=40&lines=Building+with+AI+%E2%9A%A1;Shipping+Fast+%7C+Learning+Daily;Curious+%C2%B7+Consistent+%C2%B7+Practical" alt="Typing Subtitle" />
 </p>
 
-<hr />
+### 💡 The Honest Dev Philosophy
+> *"I believe in shipping working software rather than memorizing syntax. I use AI to ideate, prototype, and build at lightning speed — while keeping my hands dirty in the architecture, debugging, and user experience."*
 
-<p align="center"><a href="https://github.com/sunnyptl95">GitHub</a></p>
+- 🤖 **AI-Native Workflow**: I embrace modern AI developer tools to turn ideas into production code with speed and precision.
+- 🚀 **Shipping > Theory**: I prefer building real, working projects and learning from practical mistakes rather than sitting in endless tutorial loops.
+- 🧠 **Curious & Adaptable**: Fast learner who isn't afraid of trying unfamiliar tech stacks (Python, JavaScript, Java, Web).
+- 🤝 **Open & Transparent**: Building in public, documenting what works, and sharing what I discover along the way.
+
+<br />
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" alt="Skills" />
+</p>
+
+<br />
+
+### 📈 GitHub Overview
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=sunnyptl95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyptl95&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=sunnyptl95&theme=aurora&items=Python%3A%3A4+public+repositories%7CBuilding%3A%3AShipping+in+the+open%7CImpact%3A%3A1+stars+%C2%B7+22+active+days&mode=light" /><img src="https://www.gitskins.com/api/section/highlights?username=sunnyptl95&theme=aurora&items=Python%3A%3A4+public+repositories%7CBuilding%3A%3AShipping+in+the+open%7CImpact%3A%3A1+stars+%C2%B7+22+active+days" width="100%" alt="Highlights" /></picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnyptl95&theme=react-dark&hide_border=true&bg_color=0d1117&area=true" alt="Activity Graph" width="95%" />
 </p>
 
-## The year, so far
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sunnyptl95&theme=aurora&style=jet&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=sunnyptl95&theme=aurora&style=jet&mode=dark" width="100%" alt="84 contributions in the last year" />
-  </picture>
-</p>
-
-
-
-
+<br />
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
